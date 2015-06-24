@@ -3,16 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="0d97442d-18b3-481f-abcd-2b8a97c1677a" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/pic06.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/ie9.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sniperlogo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/images/ie/grad0-20.svg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/sass/ie9.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/images/ie/grad0-20.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sniperlogo.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery.scrolly.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/images/bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/ie9.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sniperlogoblue.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/pic00.jpg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sniperlogoblue.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
     </list>
     <ignored path="sniper_description.iws" />
@@ -39,8 +39,6 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.16411906" vertical-offset="1734" max-vertical-offset="6375">
-              <caret line="114" column="41" selection-start-line="114" selection-start-column="41" selection-end-line="114" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -101,9 +99,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane">
-        <subPane />
-      </pane>
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -114,6 +109,9 @@
             </PATH_ELEMENT>
           </PATH>
         </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane />
       </pane>
     </panes>
   </component>
@@ -131,6 +129,7 @@
     <property name="options.searchVisible" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="FullScreen" value="false" />
+    <property name="LayoutCode.rearrangeEntriesHTML" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -384,7 +383,6 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10223000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
@@ -445,6 +443,14 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1938" max-vertical-offset="6732">
+          <caret line="114" column="41" selection-start-line="114" selection-start-column="41" selection-end-line="114" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6375">
@@ -545,16 +551,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28605202" vertical-offset="26905" max-vertical-offset="35955">
-          <caret line="1604" column="16" selection-start-line="1604" selection-start-column="9" selection-end-line="1604" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.53778136" vertical-offset="30203" max-vertical-offset="35972">
+          <caret line="1816" column="27" selection-start-line="1816" selection-start-column="27" selection-end-line="1816" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16411906" vertical-offset="1734" max-vertical-offset="6375">
-          <caret line="114" column="41" selection-start-line="114" selection-start-column="41" selection-end-line="114" selection-end-column="41" />
           <folding />
         </state>
       </provider>
