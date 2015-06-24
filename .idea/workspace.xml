@@ -39,6 +39,8 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.3566878" vertical-offset="6581" max-vertical-offset="7837">
+              <caret line="213" column="27" selection-start-line="213" selection-start-column="27" selection-end-line="213" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -370,6 +372,7 @@
       <workItem from="1435081101326" duration="3500000" />
       <workItem from="1435096682938" duration="1034000" />
       <workItem from="1435174132529" duration="130000" />
+      <workItem from="1435174488945" duration="6516000" />
     </task>
     <task id="LOCAL-00001" summary="Added Images">
       <created>1435011069898</created>
@@ -383,6 +386,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16739000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
@@ -559,6 +563,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.3566878" vertical-offset="6581" max-vertical-offset="7837">
+          <caret line="213" column="27" selection-start-line="213" selection-start-column="27" selection-end-line="213" selection-end-column="27" />
           <folding />
         </state>
       </provider>
